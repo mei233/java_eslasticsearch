@@ -1,4 +1,4 @@
-Ce projet est pour l'objectif de proposer un exemple de programme java utilisant elastic search.
+### Ce projet est pour l'objectif de proposer un exemple de programme java utilisant elastic search.
 
 Pré-requis : 
 1. le lien vers le téléchargement de elasticsearch : https://www.elastic.co/downloads/elasticsearch
